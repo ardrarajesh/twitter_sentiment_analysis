@@ -1,2 +1,2 @@
 # twitter_sentiment_analysis
-sentiment analysis using svm on twitter data
+ Support Vector Machines (SVM) to classify sentiments toward the COVID-19 pandemic (using Twitter data)
